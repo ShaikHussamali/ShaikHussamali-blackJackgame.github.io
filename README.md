@@ -1,1 +1,2 @@
-# ShaikHussamali-blackJackgame.github.io
+# blackjack-game-template
+Base template for the Black Jack game
