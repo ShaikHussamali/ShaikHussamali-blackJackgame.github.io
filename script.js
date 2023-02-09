@@ -1,8 +1,3 @@
-/**
- * Function which build pack of Cards as an Array and as an Object
- * @param {*} asArray - which decides whether to return as an Array or as an Object
- * @returns - packArr if asArray is true, else packObj
- */
 function buildCards(asArray=true){
     const suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades'];
     const values = ['Ace', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'Jack', 'Queen', 'King'];
